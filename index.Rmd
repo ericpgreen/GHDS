@@ -1,0 +1,37 @@
+--- 
+title: "Global Health Data Science"
+author: "Eric Green"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+url: 'http\://designsandmethods.com/ebook/'
+github-repo: ericpgreen/GHDR
+description: "Global health data science"
+---
+
+# Preface{-}
+
+
+## About this Book{-}
+
+
+## Organization{-}
+
+
+## Acknowledgements{-}
+
+
+```{r mybad, echo=FALSE}
+knitr::include_url("http://giphy.com/embed/1cmt4RJsUa1zi",
+                   height = "360px")
+```
+
+## Colophon{-}
+
+This book is a work in progress. If you find errors (gasp!), please create an issue on [Github](https://github.com/ericpgreen/GHDS), [email me](eric.green@duke.edu), or shame me on Twitter (`@ericpgreen`). I'm writing the book in [R Markdown](http://rmarkdown.rstudio.com/) within [RStudio](https://www.rstudio.com/). The [`bookdown`](https://github.com/rstudio/bookdown) package from the makers of RStudio does most of the heavy lifting to compile the book. The source code for the book is available on [Github](https://github.com/ericpgreen/GHDS).
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/us/) United States License.

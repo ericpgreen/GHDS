@@ -1,5 +1,5 @@
 --- 
-title: "Global Health Data Science"
+title: "Global Health Research: Data Science"
 author: "Eric Green"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
@@ -8,8 +8,8 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-url: 'http\://designsandmethods.com/ebook/'
-github-repo: ericpgreen/GHDR
+url: 'http\://designsandmethods.com/ghds/'
+github-repo: ericpgreen/GHDS
 description: "Global health data science"
 ---
 

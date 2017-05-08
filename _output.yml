@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Global Health Data Science</a></li>
+        <li><a href="./">Global Health Research: Data Science</a></li>
       after: |
         <li><a href="http://www.designsandmethods.com/" target="blank">Eric P. Green</a></li>
     edit: https://github.com/ericpgreen/GHDS/edit/master/%s
